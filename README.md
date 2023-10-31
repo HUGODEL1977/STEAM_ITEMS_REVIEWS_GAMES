@@ -64,5 +64,7 @@ Tecnologia usada
 Visual Studio Code, Jupyter Notebook, Python, NumPy, Pandas, Matplotlib, scikit-learn, FastAPI, Git GitHub, Markdown.
 
 GITHUB HUGODEL1977
+
 Correo electronico: hugohernandelgadoo@gmail.com
+
 Hugo Hernan Delgado Osorio
