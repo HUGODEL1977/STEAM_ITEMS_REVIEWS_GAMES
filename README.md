@@ -56,9 +56,9 @@ https://drive.google.com/drive/folders/1hZNtAB7T0i5pIZMM4IfQLtfG8YPqnXB4?usp=dri
 
 El proceso de ETL esta con código comentado en proyecto_steam_ETL.py y el EDA junto con el modelo de machine learning esta con codigo comentado en proyecto_steam_EDA.ipynb.
 
-https://drive.google.com/file/d/1_TwlPi7vOO6__ePlxPeQTLj2HtmeFfoY/view?usp=drive_link "Este es el video deL Deployment de la API en RENDER" 
+https://drive.google.com/file/d/1_TwlPi7vOO6__ePlxPeQTLj2HtmeFfoY/view?usp=drive_link "Este es el video del Deployment de la API en RENDER" 
 
-https://juegos-steam-reviews.onrender.com/docs#/ " Deployment de la API con RENDER"
+https://juegos-steam-reviews.onrender.com/docs#/ " Deployment de la API en RENDER"
 
 Tecnologia usada
 Visual Studio Code, Jupyter Notebook, Python, NumPy, Pandas, Matplotlib, scikit-learn, FastAPI, Git GitHub, Markdown.
