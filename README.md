@@ -58,6 +58,8 @@ El proceso de ETL esta con código comentado en proyecto_steam_ETL.py y el EDA j
 
 https://drive.google.com/file/d/1_TwlPi7vOO6__ePlxPeQTLj2HtmeFfoY/view?usp=drive_link "Este es el video deL Deployment de la API en RENDER" 
 
+https://juegos-steam-reviews.onrender.com/docs#/ " Deployment de la API con RENDER"
+
 Tecnologia usada
 Visual Studio Code, Jupyter Notebook, Python, NumPy, Pandas, Matplotlib, scikit-learn, FastAPI, Git GitHub, Markdown.
 
